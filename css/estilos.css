@@ -1,0 +1,96 @@
+*
+#contenido
+{
+    border: 0; 
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+body
+{
+  background: url(../img/fondo.jpg); 
+  background-repeat: no-repeat fixed center ;
+  background-size: cover;
+  padding: 5px;
+  font-family: 'Gudea', sans-serif;
+  font-size: 16px;
+}
+h1
+{
+  font-family: font-family: 'Tenor Sans', sans-serif;
+  margin: 10px;
+  font-size: 60px;
+  text-align: center;
+}
+
+h2
+{
+  font-family: 'Gudea', sans-serif;
+  margin-left: 10px;
+  margin:  40px;
+  font-size: 33px;
+  text-align: left;
+  margin-left: 10px
+}
+aside
+{
+  margin-right: 100px;
+  margin-bottom: 50px; 
+  border-radius: 10px; 
+  background-color: #483D8B;
+  margin-left: 30px; 
+}
+article
+{
+  margin: 0 auto;
+  text-align: justify;
+  width: 95%  
+}
+
+nav
+{
+  width: 950px;
+  text-align: center;
+  background-color: #FFA500;
+  margin:0 auto; 
+}
+nav ul li
+{
+  display: inline-block;
+  padding: 8px 50px; 
+  cursor: pointer;
+  color: #F0FFFF;
+  box-shadow: #000000 0px 0px 35px;
+  background-color: : #333;
+}
+section
+{
+  text-align: justify;
+  padding: 10px;
+}
+a
+{
+  color:#F60;
+  font-weight: bold;  
+  text-decoration: none;
+  font-size: 18px;
+  box-shadow: #483D8B 1px 1px 35px;
+  margin-left: 10px;
+  border-radius: 13px 0px 13px 0px;
+  border:2px solid;
+} 
+footer
+{
+  text-align: center;
+  font-weight: bold; 
+}
+ 
+
+
+
+
+
+   
+
+  
+
